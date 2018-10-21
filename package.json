@@ -1,0 +1,31 @@
+{
+  "name": "walking-dead-characters-cli",
+  "version": "1.0.0",
+  "description": "Get characters from The Walking Dead on the command-line",
+  "keywords": [
+    "walking-dead",
+    "the-walking-dead",
+    "characters",
+    "character",
+    "amc",
+    "comics",
+    "word",
+    "words",
+    "list",
+    "random",
+    "cli-app",
+    "cli"
+  ],
+  "bin": {
+    "walking-dead-characters": "cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jenbuzz/walking-dead-characters-cli.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "walking-dead-characters": "^1.0.0",
+    "meow": "^5.0.0"
+  }
+}
