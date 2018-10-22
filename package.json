@@ -24,8 +24,15 @@
     "url": "git://github.com/jenbuzz/walking-dead-characters-cli.git"
   },
   "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
   "dependencies": {
-    "walking-dead-characters": "^1.0.0",
-    "meow": "^5.0.0"
+    "meow": "^5.0.0",
+    "walking-dead-characters": "^1.0.0"
+  },
+  "devDependencies": {
+    "execa": "^1.0.0",
+    "jest": "^23.6.0"
   }
 }
