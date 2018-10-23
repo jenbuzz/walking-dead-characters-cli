@@ -4218,9 +4218,9 @@ walker@~1.0.5:
   dependencies:
     makeerror "1.0.x"
 
-walking-dead-characters@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/walking-dead-characters/-/walking-dead-characters-1.0.0.tgz#84f6181836f4716463e72c559cce77d4e6a46227"
+walking-dead-characters@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/walking-dead-characters/-/walking-dead-characters-1.1.0.tgz#396249ed85926e1bf22edd7037c7e068352a04fc"
 
 watch@~0.18.0:
   version "0.18.0"
