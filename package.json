@@ -25,7 +25,7 @@
   },
   "license": "MIT",
   "scripts": {
-    "test": "jest"
+    "test": "jest && xo cli.js"
   },
   "dependencies": {
     "meow": "^5.0.0",
@@ -33,6 +33,10 @@
   },
   "devDependencies": {
     "execa": "^1.0.0",
-    "jest": "^23.6.0"
+    "jest": "^23.6.0",
+    "xo": "^0.23.0"
+  },
+  "xo": {
+    "space": 4
   }
 }
