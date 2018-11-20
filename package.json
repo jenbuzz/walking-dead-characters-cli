@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "meow": "^5.0.0",
-    "walking-dead-characters": "^1.1.0"
+    "walking-dead-characters": "^1.2.0"
   },
   "devDependencies": {
     "execa": "^1.0.0",
