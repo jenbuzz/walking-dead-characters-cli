@@ -21,5 +21,9 @@ For help with usage from the command-line run the following:
 $ walking-dead-characters --help
 ```
 
+## Related
+
+[walking-dead-characters](https://github.com/jenbuzz/walking-dead-characters) => Module for getting a random character name from The Walking Dead.
+
 ## License
 This package is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
