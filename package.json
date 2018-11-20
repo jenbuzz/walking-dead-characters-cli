@@ -1,6 +1,6 @@
 {
   "name": "walking-dead-characters-cli",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Get characters from The Walking Dead on the command-line",
   "keywords": [
     "walking-dead",
